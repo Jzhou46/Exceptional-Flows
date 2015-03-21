@@ -1,0 +1,2 @@
+# Exceptional-Flows
+For this assignment, you are to write two related programs in either C or C++ as you choose - One that acts as a simple shell, and the other of which exercises the handling of several different signals. More specifically, the second program will use the Monte Carlo method to estimate what fraction of the total address space is inaccessible, by attempting to access random locations and reporting what fraction of attempts are unsuccessful. 
